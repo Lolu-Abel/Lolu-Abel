@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lolu-Abel
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m @Lolu
+- 👀 I’m a frontend developer en route to becoming fullstack
+- 🌱 I’m currently working with ReactJS to build real life projects
+- 💞️ I’m looking to leave my mark
 
 <!---
 Lolu-Abel/Lolu-Abel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

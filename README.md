@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lolu
-- 👀 I’m a frontend developer en route to becoming fullstack
+- 👀 I’m a frontend developer en route to becoming a fullstack developer
 - 🌱 I’m currently working with ReactJS to build real life projects
 - 💞️ I’m looking to leave my mark
 
